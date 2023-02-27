@@ -1,6 +1,6 @@
 # dribbble
 
-A new Flutter project.
+Unofficial dribbble mobil app.
 
 ## Getting Started
 
